@@ -1,7 +1,7 @@
 <h1>Dragon Curve</h1>
 
 <h3>
-This is a algorithm for drawing "Dragon Curve" using libGDX.
+This is an algorithm for drawing "Dragon Curve" using libGDX.
 
 Dragon curve :
 rotate the previous shap with 90 angle for each order.
